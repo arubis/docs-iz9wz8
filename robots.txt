@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-umo0ne.privatetalks.online/sitemap.xml
